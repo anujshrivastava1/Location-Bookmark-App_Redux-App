@@ -12,6 +12,8 @@
 ### Database: MongoDB
 ### Styling: CSS
 
+#### Include your ENV file
+
 ## Screenshots:
 
 ![image](https://github.com/anujshrivastava1/Location-Bookmark-App_Redux-App/assets/117368088/8ba3a707-d0d7-4380-b869-4d124bc3e62f)
