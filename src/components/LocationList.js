@@ -1,7 +1,9 @@
 import React, { useState } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
 import LocationForm from './LocationForm.js';
-import { deleteLocation, updateLocation } from '../actions/locationActions.js';
+import { deleteLocation} from '../actions/locationActions.js';
+import '../App.css';
+
 
 const LocationList = () => {
   const dispatch = useDispatch();
@@ -36,7 +38,7 @@ const LocationList = () => {
 
   return (
     <div>
-      <h2>Locations</h2>
+      
       <LocationForm editId = {editId} formData={formData} setFormData={setFormData} />
       <ul style={{ listStyleType: 'none', padding: 0 }}>
         {locations ? (
@@ -60,6 +62,7 @@ const LocationList = () => {
           </>
         )}
       </ul>
+      
     </div>
   );
 };
