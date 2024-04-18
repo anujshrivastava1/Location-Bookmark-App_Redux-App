@@ -12,6 +12,13 @@
 ### Database: MongoDB
 ### Styling: CSS
 
+## Screenshots:
+
+![image](https://github.com/anujshrivastava1/Location-Bookmark-App_Redux-App/assets/117368088/8ba3a707-d0d7-4380-b869-4d124bc3e62f)
+
+![image](https://github.com/anujshrivastava1/Location-Bookmark-App_Redux-App/assets/117368088/b34e2eb9-d793-48e7-a4a1-9c893626f85e)
+
+
 ## Contributing
 ### Contributions are welcome! If you'd like to contribute to the project, please follow these steps:
 
